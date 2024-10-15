@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a+x /home/mdsax007/holbertonschool-shell/permissions
+chmod a+x $(find . -type d)
