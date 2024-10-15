@@ -1,2 +1,0 @@
-#!/bin/bash
-chown -c hello tmp/betty 
