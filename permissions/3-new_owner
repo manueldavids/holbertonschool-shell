@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -c tmp/betty hello
+chown -c hello tmp/betty 
