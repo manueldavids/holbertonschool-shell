@@ -1,0 +1,17 @@
+total 52
+drwxr-xr-x 1 mdsax007 mdsax007 356 Oct 16 12:41 .
+drwxr-xr-x 1 mdsax007 mdsax007  96 Oct 16 09:37 ..
+-rwxr--r-- 1 mdsax007 mdsax007  32 Oct 16 09:42 0-hello_world
+-rwxr--r-- 1 mdsax007 mdsax007  23 Oct 16 09:51 1-confused_smiley
+-rwxr--r-- 1 mdsax007 mdsax007  28 Oct 16 09:56 2-hellofile
+-rwxr--r-- 1 mdsax007 mdsax007  39 Oct 16 10:06 3-twofiles
+-rwxr--r-- 1 mdsax007 mdsax007  33 Oct 16 10:26 4-lastlines
+-rwxr--r-- 1 mdsax007 mdsax007  33 Oct 16 10:35 5-firstlines
+-rwxr--r-- 1 mdsax007 mdsax007  36 Oct 16 10:43 6-third_line
+-rwxr--r-- 1 mdsax007 mdsax007  93 Oct 16 11:32 7-file
+-rwxr--r-- 1 mdsax007 mdsax007  38 Oct 16 12:41 8-cwd_state
+-rw-r--r-- 1 mdsax007 mdsax007  12 Oct 16 11:32 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 mdsax007 mdsax007  33 Oct 16 10:40 filetest
+-rw-r--r-- 1 mdsax007 mdsax007   0 Oct 16 12:41 ls_cwd_content
+-rw-r--r-- 1 mdsax007 mdsax007  73 Oct 16 09:45 README.md
+-rw-r--r-- 1 mdsax007 mdsax007   7 Oct 16 09:50 smiley
