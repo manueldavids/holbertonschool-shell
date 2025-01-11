@@ -1,2 +1,5 @@
 #!/bin/bash
-for item in $(find . -empty); do echo "${item##*/}"; done
+for item in $(find . -empty)
+do echo "${item##*/}"
+done
+
