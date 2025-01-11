@@ -1,8 +1,3 @@
 #!/bin/bash
-
-# Iterate over all files and directories
-for item in $(find . -empty); do
-    # Extract only the name (not the path)
-    echo "${item##*/}"
-done
+find . -empty -execdir echo {} \;
 
