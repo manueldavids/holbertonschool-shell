@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty | while read -r item; do echo "${item##*/}"; done
+for item in $(find . -empty); do echo "${item##*/}"; done
