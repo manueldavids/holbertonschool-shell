@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty -execdir echo {} \;
+find . -empty | while read -r item; do echo "${item##*/}"; done
